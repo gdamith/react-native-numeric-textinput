@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wwdrew/react-native-numeric-textinput.git"
+    "url": "git+https://github.com/gdamith/react-native-numeric-textinput.git"
   },
   "files": [
     "lib"
